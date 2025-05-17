@@ -1,0 +1,26 @@
+[
+  {
+    "input": "A-dark-bg.svg",
+    "output": "A-dark-bg.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "input": "A-dark.svg",
+    "output": "A-dark.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "input": "A-light-bg.svg",
+    "output": "A-light-bg.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "input": "A-light.svg",
+    "output": "A-light.png",
+    "width": 1024,
+    "height": 1024
+  }
+]
