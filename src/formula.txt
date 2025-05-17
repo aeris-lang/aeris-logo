@@ -1,7 +1,6 @@
 \phi=\frac{1+\sqrt{5}}{2}
-S=100
-W=S
-H=S
+W=100
+H=100
 m=\frac{2H}{W}
 f_{0}\left(x\right)=0
 f_{1}\left(x\right)=mx

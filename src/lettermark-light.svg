@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="A-dark.svg"
+   sodipodi:docname="lettermark-light.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
      inkscape:zoom="2.088842"
-     inkscape:cx="166.83885"
-     inkscape:cy="74.44316"
+     inkscape:cx="166.59948"
+     inkscape:cy="73.964426"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -49,7 +49,7 @@
        is_visible="true"
        lpeversion="1" /></defs><path
      id="path2"
-     style="display:inline;fill:#000000;fill-opacity:1"
+     style="display:inline;fill:#ffffff;fill-opacity:1"
      d="M 50,0 0,100 h 72.571 l -8,-16 H 25.888672 L 58.943359,17.888672 Z M 61.926,23.851 51.193,45.318 78.534,100 H 100 Z"
      sodipodi:nodetypes="cccccccccccc"
      inkscape:label="A" /></svg>

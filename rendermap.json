@@ -1,25 +1,25 @@
 [
   {
-    "input": "A-dark-bg.svg",
-    "output": "A-dark-bg.png",
+    "input": "lettermark-dark-bg.svg",
+    "output": "lettermark-dark-bg.png",
     "width": 1024,
     "height": 1024
   },
   {
-    "input": "A-dark.svg",
-    "output": "A-dark.png",
+    "input": "lettermark-dark.svg",
+    "output": "lettermark-dark.png",
     "width": 1024,
     "height": 1024
   },
   {
-    "input": "A-light-bg.svg",
-    "output": "A-light-bg.png",
+    "input": "lettermark-light-bg.svg",
+    "output": "lettermark-light-bg.png",
     "width": 1024,
     "height": 1024
   },
   {
-    "input": "A-light.svg",
-    "output": "A-light.png",
+    "input": "lettermark-light.svg",
+    "output": "lettermark-light.png",
     "width": 1024,
     "height": 1024
   }
