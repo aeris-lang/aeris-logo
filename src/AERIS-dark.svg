@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="388"
+   height="100"
+   viewBox="0 0 388 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="AERIS-dark.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#4f4f4f"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="2.088842"
+     inkscape:cx="167.07822"
+     inkscape:cy="74.44316"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:clip-to-page="false"
+     labelstyle="default" /><defs
+     id="defs1"><rect
+       x="37.575294"
+       y="-85.983109"
+       width="44.684135"
+       height="38.252327"
+       id="rect6" /><inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" /><inkscape:path-effect
+       effect="spiro"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1" /></defs><path
+     id="path11"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:22.6681;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="AERIS"
+     d="M 50 0 L 0 100 L 72.570312 100 L 64.570312 84 L 25.888672 84 L 58.943359 17.888672 L 50 0 z M 110 0 L 110 100 L 170 100 L 170 84 L 128 84 L 128 58 L 164 58 L 164 42 L 128 42 L 128 16 L 170 16 L 170 0 L 110 0 z M 190 0 L 190 100 L 208 100 L 208 62 L 222.52539 62 L 241.52539 100 L 260 100 L 239.26172 58.521484 C 249.20393 53.358899 256 42.976681 256 31 C 256 13.879173 242.12083 0 225 0 L 190 0 z M 280 0 L 280 100 L 298 100 L 298 0 L 280 0 z M 353 0 A 35 30 0 0 0 318 30 A 35 28 0 0 0 353 58 A 19 12 0 0 1 372 70 A 19 14 0 0 1 353 84 A 19 14 0 0 1 334 70 L 318 70 A 35 30 0 0 0 353 100 A 35 30 0 0 0 388 70 A 35 28 0 0 0 353 42 A 19 12 0 0 1 334 30 A 19 14 0 0 1 353 16 A 19 14 0 0 1 372 30 L 388 30 A 35 30 0 0 0 353 0 z M 208 16 L 225 16 C 233.28427 16 240 22.715729 240 31 C 240 39.284271 233.28427 46 225 46 L 208 46 L 208 16 z M 61.925781 23.851562 L 51.193359 45.318359 L 78.533203 100 L 100 100 L 61.925781 23.851562 z " /></svg>

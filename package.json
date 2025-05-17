@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "svgo -rf src -o build"
+  },
+  "devDependencies": {
+    "svgo": "^3.3.2"
+  }
+}
