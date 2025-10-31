@@ -2,12 +2,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "clear": "node scripts/clear.mjs",
-    "build": "svgo -rf src -o build",
-    "render": "node scripts/render.mjs"
+    "build": "svgo -rf src -o build"
   },
   "devDependencies": {
-    "sharp": "^0.34.1",
-    "svgo": "^3.3.2"
+    "svgo": "^3.3"
   }
 }
