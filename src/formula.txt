@@ -1,0 +1,15 @@
+\phi=\frac{1+\sqrt{5}}{2}
+V_{scale}=100
+C_{width}=\frac{\phi-1}{2\phi}V_{scale}
+C_{split}=\frac{1}{4}C_{width}
+m=2
+M=\sqrt{m^{2}+1}
+f_{outline0}\left(x\right)=0
+f_{outline1}\left(x\right)=mx
+f_{outline2}\left(x\right)=-m\left(x-V_{scale}\right)
+f_{inline0}\left(x\right)=f_{outline0}\left(x\right)+C_{width}
+f_{inline1}\left(x\right)=f_{outline1}\left(x\right)-C_{width}M
+f_{inline2}\left(x\right)=f_{outline2}\left(x\right)-C_{width}M
+f_{split0}\left(x\right)=f_{outline0}\left(x\right)+C_{width}+C_{split}
+f_{split1}\left(x\right)=f_{outline1}\left(x\right)-\left(C_{width}+C_{split}\right)M
+f_{split2}\left(x\right)=f_{outline2}\left(x\right)-\left(C_{width}+C_{split}\right)M
