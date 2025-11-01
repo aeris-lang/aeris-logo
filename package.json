@@ -5,6 +5,6 @@
     "build": "svgo -rf src -o build"
   },
   "devDependencies": {
-    "svgo": "^3.3"
+    "svgo": "^4"
   }
 }
